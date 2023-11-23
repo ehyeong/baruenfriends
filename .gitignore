@@ -74,4 +74,5 @@ crashlytics-build.properties
 # AVProVideo
 /[Aa]ssets/AVProVideo/
 /[Aa]ssets/[Ss]treamingAssets/
+/[Aa]ssets/[Ss]treamingAssets.meta
 
